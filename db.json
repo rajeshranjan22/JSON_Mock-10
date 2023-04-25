@@ -1,11 +1,191 @@
-{
-    "users":[
-        {
-            "id":1,
-            "name":"Rajesh"
-        }
-    ]
-    
-    
-
-}
+[
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
+    },
+    {
+      "id": 1682411147229,
+      "brand": "tata",
+      "type": "amt",
+      "year": "2019",
+      "kms": "15",
+      "Description": "hello",
+      "Price": 20
+    },
+    {
+      "id": 1682411407621,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "78",
+      "Description": "hello",
+      "Price": 200000
+    },
+    {
+      "id": 1682411993429,
+      "brand": "suzuki",
+      "type": "manual",
+      "year": "2017",
+      "kms": "34",
+      "Description": "hiii",
+      "Price": 34000
+    },
+    {
+      "id": 1682413074803,
+      "brand": "suzuki",
+      "type": "manual",
+      "year": "2022",
+      "kms": "34",
+      "Description": "fgg",
+      "Price": 567
+    },
+    {
+      "id": 1682413934450,
+      "brand": "",
+      "type": "amt",
+      "year": "2018",
+      "kms": "90",
+      "Description": "hello",
+      "Price": 40000
+    },
+    {
+      "id": 1682414367065,
+      "brand": "bmw",
+      "type": "manual",
+      "year": "2018",
+      "kms": "67",
+      "Description": "78",
+      "Price": 890
+    },
+    {
+      "id": 1682414675116,
+      "brand": "bmw",
+      "type": "automated",
+      "year": "2022",
+      "kms": "78",
+      "Description": "yuiki",
+      "Price": 6789
+    },
+    {
+      "id": 1682414858659,
+      "brand": "",
+      "type": "automated",
+      "year": "2016",
+      "kms": "89",
+      "Description": "jkkkk",
+      "Price": 890
+    },
+    {
+      "id": 1682415731118,
+      "brand": "tata",
+      "type": "manual",
+      "year": "",
+      "kms": "1200",
+      "Description": "sibjsojls",
+      "Price": 1000
+    },
+    {
+      "id": 1682416163257,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2018",
+      "kms": "12",
+      "Description": "nothing",
+      "Price": 12
+    },
+    {
+      "id": 1682416650129,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416649229,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416648196,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416649442,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416648870,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416649658,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416649042,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416650503,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    },
+    {
+      "id": 1682416650693,
+      "brand": "tata",
+      "type": "manual",
+      "year": "2019",
+      "kms": "1200",
+      "Description": "hugihlilo",
+      "Price": 1000
+    }
+  ]
